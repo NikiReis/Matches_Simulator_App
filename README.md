@@ -4,3 +4,5 @@ Native Android App of Matches Simulation. This repository was organised in some 
     - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/NikiReis/Matches_Simulator_App/tree/release/desenvolvimento-mobile-nativo-para-android)
 2. Components, Layouts e UI/UX in Android Apps
     - [release/componentes-layout-ui-ux-em-apps-android](https://github.com/NikiReis/Matches_Simulator_App/tree/release/componentes-layout-ui-ux-em-apps-android)
+3. Java and Kotlin !?, Building Android Apps
+    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/NikiReis/Matches_Simulator_App/tree/release/java-e-kotlin-juntos-construindo-apps-android)
