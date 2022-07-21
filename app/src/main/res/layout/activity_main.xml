@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".ui.MainActivity"
     tools:ignore="MissingClass">
 
     <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
@@ -37,7 +37,8 @@
         android:focusable="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        tools:srcCompat="@drawable/ic_baseline_casino_24" />
+        app:srcCompat="@drawable/dado_simulator"
+        android:visibility="visible"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
