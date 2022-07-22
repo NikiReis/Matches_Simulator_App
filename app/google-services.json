@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316354259573",
+    "project_id": "simulator-dio-sportheca-bff42",
+    "storage_bucket": "simulator-dio-sportheca-bff42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316354259573:android:ab25394f9a4973fe94663c",
+        "android_client_info": {
+          "package_name": "me.dio.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316354259573-upr991pva8rg2h6bnfua98sojsgpm011.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTIIW3ysIxVTv_nHJxhd8xEpu9TXR1gyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316354259573-upr991pva8rg2h6bnfua98sojsgpm011.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -11,6 +11,8 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.google.android.material.snackbar.Snackbar;
 
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
@@ -57,6 +59,8 @@ public class MainActivity<i> extends AppCompatActivity {
     private void setupMatchesList(){
         binding.rvMatches.setHasFixedSize(true);
         binding.rvMatches.setLayoutManager(new LinearLayoutManager(this));
+        matchesAdapter = new MatchesAdapter(Collections.emptyList());
+        binding.rvMatches.setAdapter(matchesAdapter);
         findMatchesFromApi();
     }
 
